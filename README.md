@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Firebase**
 
-- 📫 How to reach me **girbaud@rvised / girbaud@shrine.house**
+- 📫 How to reach me **girbaud@shrine.house**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qpFQP-m74aPai3VDj9RWf2laGLG0arM4/view?usp=sharing](https://drive.google.com/file/d/1qpFQP-m74aPai3VDj9RWf2laGLG0arM4/view?usp=sharing)
 
