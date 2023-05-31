@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Girbaud Barthels</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">A passionate front-end developer</h3>
 
-- 🔭 I’m currently working on **Shrine House dapp**
+- 🔭 I’m currently working on **Several things**
 
-- 🌱 I’m currently learning **ReactJS, Solidity**
+- 💬 Ask me about **SvelteKit, Flutter, AstroJS & Firebase**
 
-- 💬 Ask me about **Flutter, Firebase**
-
-- 📫 How to reach me **girbaud@shrine.house**
+- 📫 How to reach me **girbaud@subliweb.be**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qpFQP-m74aPai3VDj9RWf2laGLG0arM4/view?usp=sharing](https://drive.google.com/file/d/1qpFQP-m74aPai3VDj9RWf2laGLG0arM4/view?usp=sharing)
 
